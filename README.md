@@ -26,7 +26,7 @@
 # 安装
     pip install -r requirements.txt
 # 使用
-    python run main.py
+    python main.py
 
 
 
